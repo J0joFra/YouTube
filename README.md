@@ -43,6 +43,7 @@ Applicheremo le competenze apprese in progetti reali per consolidare il nostro a
 
 - **LinkedIn**: [linkedin.com/in/joaquim-francalanci](https://www.linkedin.com/in/joaquim-francalanci)
 - **GitHub**: [github.com/J0joFra](https://github.com/J0joFra)
+- **YouTube**: [youtube.com/jofrancalanci](https://www.youtube.com/channel/UC9bo37JD_qtWQkXSWsLngdw)
 - **Kaggle**: [kaggle.com/joaquimfrancalanci](https://www.kaggle.com/joaquimfrancalanci)
 - **Instagram**: [instagram.com/joaquim.francalanci](https://www.instagram.com/joaquim.francalanci)
 
