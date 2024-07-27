@@ -1,6 +1,6 @@
 # Joaquim Francalanci
 
-👋 Ciao, sono Jo! Sono un analista di dati e creatore di contenuti. Su questo canale condivido video riguardanti:
+👋 Ciao, sono Jo! Sono un analista di dati e creatore di contenuti. Sul mio 🟥 [canale YouTube](https://www.youtube.com/channel/UC9bo37JD_qtWQkXSWsLngdw) condivido video riguardanti:
 
 - 📊 **Dati**: Analisi dei dati, visualizzazione e tecniche di machine learning.
 - 🏢 **Carriera**: Consigli per avanzare nella tua carriera di analista di dati.
