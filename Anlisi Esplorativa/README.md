@@ -1,5 +1,3 @@
 # Perchè **Pandas** è STRAORDINARIO per l'analisi dei dati in PYTHON! 🐼🐍
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ku6j9PU_kAY?si=975VyFX4fCn0QuIf" title="Analisi Esplorativa con Python | PANDAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+[![Guarda il video](https://img.youtube.com/vi/Ku6j9PU_kAY/0.jpg)](https://www.youtube.com/watch?v=Ku6j9PU_kAY)
